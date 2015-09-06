@@ -1,0 +1,5 @@
+{
+	"hero" : ["priest","mage","paladin","warrior","rouge","druid","hunter","warlock","shaman"],
+	"result" : ["win","loss"],
+	"opponent" : ["priest","mage","paladin","warrior","rouge","druid","hunter","warlock","shaman"]
+}
